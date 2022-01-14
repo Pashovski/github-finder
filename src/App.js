@@ -4,7 +4,7 @@ import Navbar from "./components/layout/Navbar";
 function App() {
   return (
     <Router>
-        <div className="flex-col justify-between h-screen">
+        <div className="flex flex-col justify-between h-screen">
 
       <Navbar />
       
